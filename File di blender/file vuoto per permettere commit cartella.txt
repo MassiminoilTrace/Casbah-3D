@@ -1,3 +1,0 @@
- 
-Dato che git traccia solo i file e non le cartelle, metto questo piccolo file per mostrarvi l'esistenza di questa cartella.
-Quando avremo messo dei file di blender veri, potremo eliminare questo file
