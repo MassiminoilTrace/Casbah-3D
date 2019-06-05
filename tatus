@@ -1,0 +1,324 @@
+[33mcommit 9a305dcb0f20e18637b3a9f16f937c38766c245e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Jun 4 15:31:31 2019 +0200
+
+    modifiche a master per aggiungere camere e esportazioni
+
+[33mcommit 259aff02905998edf8ccf4f5c66b87cfdbe6640b[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Jun 4 15:31:14 2019 +0200
+
+    modifiche ai muri
+
+[33mcommit ea8bc258e241aa23b6356019ae6a090914e4a0bf[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Jun 4 15:29:42 2019 +0200
+
+    esportazioni in itinere
+
+[33mcommit 163ac30604d680f9b44006971691bae457452d6a[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 21:00:52 2019 +0200
+
+    nuova esportazione
+
+[33mcommit 6cf753c1a95ce559ac457c9134e87c571c0618cb[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:33:42 2019 +0200
+
+    inclusione modifiche in Master
+
+[33mcommit bf1e07cd6b1b596b5c1d9ba4c1fe915992006c59[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:33:28 2019 +0200
+
+    aggiunti tubo e acqua dentro al narghilé
+
+[33mcommit 7993b97ef4783fcfc0b92b22cbf249715f9de681[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:32:50 2019 +0200
+
+    modifica materiale estintore
+
+[33mcommit ff0aa4b837c4c714d16c0770a1ef464f1cd3752f[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:32:11 2019 +0200
+
+    creazione tessuto plastica a muro con Normal map
+
+[33mcommit a739f9c0eaa664da392189c1d9f44e4d497065fc[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:30:51 2019 +0200
+
+    divanetto materiale legno
+
+[33mcommit f8f0f8705a0419e1174777b40c5de5e9b114d8f0[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:29:46 2019 +0200
+
+    modifica materiali gambe tavolo e mosaico sopra
+
+[33mcommit 9e212d0db1f73c6dac50a1bfeba34636c37cf469[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 31 19:29:06 2019 +0200
+
+    espotazione 360 in itinere
+
+[33mcommit 1907fd3a20569fbd46ca1568cbaca6e886415aa3[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Thu May 30 23:08:08 2019 +0200
+
+    estintore, mosaico, tessuto divanetto
+
+[33mcommit 37cb082e8331f0b6ffe50d5d6aee303d4418e7ad[m
+Merge: 8455603 e20c5d9
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed May 29 15:04:35 2019 +0200
+
+    Merge branch 'master' of https://github.com/MassiminoilTrace/Casbah-3D
+
+[33mcommit 8455603bfffcddd89b1f8689c47d754657066cb2[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed May 29 15:04:26 2019 +0200
+
+    foto trama divani
+
+[33mcommit e20c5d97ad3bb98071b366e7ebe0befd55438ed5[m
+Author: andrea <andrea.lucaroni@live.com>
+Date:   Wed May 29 12:01:47 2019 +0200
+
+    bicchiere
+
+[33mcommit 6ccc16ead795f1283bc471959e66a8121b4f25af[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue May 28 22:50:49 2019 +0200
+
+    aggiunti percorsi ~ e # a .gitignore
+
+[33mcommit cf0a146ec676f6ea03897a977ea48317bf7033fa[m
+Merge: 6864614 9dae06a
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue May 28 22:48:56 2019 +0200
+
+    Merge branch 'master' of https://github.com/MassiminoilTrace/Casbah-3D
+
+[33mcommit 6864614c63d4157ea6d89afe2465bbf04bb8877a[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue May 28 22:48:46 2019 +0200
+
+    modifiche a MASTER e oggetti collegati
+
+[33mcommit 3d790576e4ac6ab6aaf3b9f2de375d2687df35c6[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue May 28 22:46:23 2019 +0200
+
+    texture alla struttura muraria
+
+[33mcommit 9dae06a41dc53dbbd118bb4631be5b4e421edb83[m
+Author: andrea <andrea.lucaroni@live.com>
+Date:   Mon May 27 20:01:57 2019 +0200
+
+    maniglia aggiunta alla porta
+
+[33mcommit b854bbfaa61b1bfb3c848babc490ec2f1fe5b1c7[m
+Merge: c7bb104 e50322a
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sun May 26 19:19:29 2019 +0200
+
+    Merge branch 'master' of https://github.com/MassiminoilTrace/Casbah-3D
+    inserimento dati aggiornati nel branch locale di Massimo, per caricarlo
+
+[33mcommit c7bb10402c137c7e1b272afd3b16e291a107682f[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sun May 26 19:19:03 2019 +0200
+
+    aggiunta narghilé e modifica MASTER
+
+[33mcommit e50322a6d9a5407c0cb0886b47b24258733721fc[m
+Author: andrea lucaroni <andrealucaroni@iMac-di-andrea-lucaroni.local>
+Date:   Sun May 26 17:00:06 2019 +0200
+
+    aggiunta di vetrata e sedia cubica
+
+[33mcommit 0c5a447f37ad66d08298d7c670ae419862684d06[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Thu May 23 20:36:37 2019 +0200
+
+    correzione lampada 1 e mio divanetto
+
+[33mcommit bfc6d877fa9b33d15788892a05538e42a86ca839[m
+Author: andrea <andrea.lucaroni@live.com>
+Date:   Wed May 22 18:48:03 2019 +0200
+
+    modellazione lampadario
+
+[33mcommit aa5c394c162d61f98f448c1d367f47f12ebb486e[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue May 21 18:13:31 2019 +0200
+
+    rimosso file segnaposto
+
+[33mcommit 6a77789e6d73aa41aa10181c63b5fec5383afb3b[m
+Author: andrea <andrea.lucaroni@live.com>
+Date:   Sat May 18 19:06:28 2019 +0200
+
+    piatti andrea
+
+[33mcommit eea97d48072f3674d31e30fe75583105201c59bf[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri May 17 20:47:22 2019 +0200
+
+    Aggiunta scalinata
+
+[33mcommit 4d32876314d4ea9c7d64a811f6f8399c00e19deb[m
+Merge: ec87369 659cd67
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed May 15 19:15:23 2019 +0200
+
+    Merge branch 'master' of https://github.com/MassiminoilTrace/Casbah-3D
+
+[33mcommit ec87369b5624ab693ca691a211d757a632565ccf[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed May 15 19:14:29 2019 +0200
+
+    aggiornata lista oggetti da modellare
+
+[33mcommit 659cd67f514041d882048e06f996efd3bd5901ee[m
+Author: lucarrr <49347315+lucarrr@users.noreply.github.com>
+Date:   Fri May 10 14:02:41 2019 +0200
+
+    Add files via upload
+
+[33mcommit 8c832ae27a69916e79e25b54671ab5c7345d5385[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 27 22:21:31 2019 +0200
+
+    aggiunta spina di sicur. estintore
+
+[33mcommit 92a3e025a5e96a20f2050147a1f9e6b6b4aedda2[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 27 13:27:39 2019 +0200
+
+    nm cuscini realizzata
+
+[33mcommit 193e3e4812b1df1d54dc473edc9aba1c4e453511[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri Apr 26 18:02:49 2019 +0200
+
+    estintore modellato
+
+[33mcommit 0615467ea58f99690a5bed94f49a9e189d4f2a09[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed Apr 24 16:11:53 2019 +0200
+
+    cambio nome cartella
+
+[33mcommit 619487b16e4b81bfb0ce7c5111354a5fa8756be4[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed Apr 24 16:04:31 2019 +0200
+
+    temporaneo cambio di licenza
+
+[33mcommit 6e9750c56ffec142c4adac72d84fac3f5ea9d835[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Wed Apr 24 15:57:15 2019 +0200
+
+    inizio lavoro normal map plastica
+
+[33mcommit 039c7b2d475f5ca1221c503970f85d8fbd95c708[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Apr 23 15:50:33 2019 +0200
+
+    scala tavolino corretta
+
+[33mcommit 7f7287a0123082cfbe3603484fc1eb87e6eda978[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Apr 23 15:32:22 2019 +0200
+
+    aggiunta colonna tracking stato modellazione
+
+[33mcommit b468ab0c619b9a3bb87b0af63feb7c4e6efd364e[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Apr 23 15:19:33 2019 +0200
+
+    aggiunto tavolino, corretta struttura archi per subdivision
+
+[33mcommit d4844d7e2ae9bbc6b5a9e04e03d00375cae0648a[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Mon Apr 22 18:10:28 2019 +0200
+
+    primi lavori sui muri
+
+[33mcommit a451e4aea32398d8765bdd89f624f3846905f258[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 13 18:59:39 2019 +0200
+
+    Aggiunti nomi autori
+
+[33mcommit 0a16d817606be30cf600471012e2534c1df02627[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 13 18:50:21 2019 +0200
+
+    Teiera v. 1
+
+[33mcommit 5ec4682231b1ca96b3ac8f6d5e15b99aca0d37e2[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 13 18:49:59 2019 +0200
+
+    Impostato gitignore per non consiederare i blend1
+
+[33mcommit 097043f0df7dda805f2d91dc47120ba109cccdfe[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 13 18:49:10 2019 +0200
+
+    Impostato gitignore per non consiederare i blend1
+
+[33mcommit 57758aeed614d2cd82d402f5480611a5007b9e7d[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 13 12:55:06 2019 +0200
+
+    corretta estensione file
+
+[33mcommit 57614aec3cedd0d8dcb09bc38c52e978924eccb2[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Fri Apr 12 22:41:23 2019 +0200
+
+    Assegnati gli oggetti da modellare
+
+[33mcommit 3655d057db0c9aa41891284a0d79669bb22b18c1[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Thu Apr 11 16:01:30 2019 +0200
+
+    aggiunto elenco oggetti da realizzare
+
+[33mcommit 9ecbfaab9606f767791092deea100badfda274ff[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Tue Apr 9 14:56:58 2019 +0200
+
+    aggiunto gitignore e file segnaposto per cartella
+
+[33mcommit fe54a85ea17ef568f3ca0347d5db301fdcf8f144[m
+Author: Rosto <omino.gis@gmail.com>
+Date:   Sat Apr 6 21:23:45 2019 +0200
+
+    first commit with reference pictures
+
+[33mcommit cb3ffad1535fda68452857cbaa21ef080098590e[m
+Author: MassiminoilTrace <24638827+MassiminoilTrace@users.noreply.github.com>
+Date:   Wed Mar 6 20:05:19 2019 +0100
+
+    Update README.md
+
+[33mcommit 61b4b0d06236f6bbfda2d7e8f00b1d05b14949d3[m
+Author: MassiminoilTrace <24638827+MassiminoilTrace@users.noreply.github.com>
+Date:   Wed Mar 6 19:59:04 2019 +0100
+
+    Create LICENSE
+    
+    Aggiunta licenza CC BY-NC-ND
+
+[33mcommit 43d22754378de167c71796f36ec6b604a1758ba4[m
+Author: MassiminoilTrace <24638827+MassiminoilTrace@users.noreply.github.com>
+Date:   Wed Mar 6 19:51:39 2019 +0100
+
+    Initial commit
